@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+
+#plan_image,
+.plan-image {
+  background-image: url("https://static.vecteezy.com/system/resources/previews/015/393/176/non_2x/online-car-rent-people-using-mobile-application-for-ordering-taxi-cab-or-car-sharing-woman-near-smartphone-screen-with-route-and-location-mark-on-a-city-map-vector.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  /* Responsive sizing */
+  min-height: 350px;
+  height: auto;
+
+  /* Optional: fallback border and radius if not using Tailwind */
+  border: 4px solid #ccc;
+  border-radius: 1.5rem;
+}
+
+
+#Help-Hero {
+  background-image: url("https://i.pinimg.com/736x/51/ef/4b/51ef4bc9568afc73051419434407ee97.jpg");
+  background-size: cover;
+  /* Better than 'contain' for filling the space */
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: fit-content;
+}
