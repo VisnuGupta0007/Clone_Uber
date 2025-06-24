@@ -476,9 +476,9 @@ function Home() {
 
                         <div className="group flex items-center gap-5 bg-white p-6 rounded-xl shadow transition-all duration-300 hover:shadow-md">
                             <img
-                                src="https://static-00.iconduck.com/assets.00/uber-icon-1024x1024-4icncyyo.png"
+                                src="https://logodownload.org/wp-content/uploads/2015/05/uber-logo-5-1.png"
                                 alt="Uber Icon"
-                                className="h-20 w-20 sm:h-28 sm:w-28 lg:h-32 lg:w-32"
+                                className="h-20 w-20 sm:h-28 sm:w-28 lg:h-32 lg:w-32 rounded-xl"
                             />
                             <div className="flex-1">
                                 <h1 className="text-xl sm:text-2xl font-bold">
@@ -493,9 +493,9 @@ function Home() {
 
                         <div className="group flex items-center gap-5 bg-white p-6 rounded-xl shadow transition-all duration-300 hover:shadow-md">
                             <img
-                                src="https://static-00.iconduck.com/assets.00/uber-icon-1024x1024-4icncyyo.png"
+                                src="https://logodownload.org/wp-content/uploads/2015/05/uber-logo-5-1.png"
                                 alt="Uber Icon"
-                                className="h-20 w-20 sm:h-28 sm:w-28 lg:h-32 lg:w-32"
+                                className="h-20 w-20 sm:h-28 sm:w-28 lg:h-32 lg:w-32 rounded-xl"
                             />
                             <div className="flex-1">
                                 <h1 className="text-xl sm:text-2xl font-bold"><Link to='/signup'>Sign up to ride</Link> </h1>
