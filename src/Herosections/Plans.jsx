@@ -27,6 +27,7 @@ function Plans() {
                                 type="time"
                                 className="bg-white border border-gray-300 px-4 py-2 rounded-md outline-none"
                             />
+                            
                         </div>
 
                       
