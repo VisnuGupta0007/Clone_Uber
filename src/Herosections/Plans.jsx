@@ -29,7 +29,7 @@ function Plans() {
                             />
                         </div>
 
-                        <button className=" bg-black text-white text-xl font-bold rounded-xl w-[320px] cursor-pointer mr-20 mt-3 py-3.5 hover:bg-gray-900">Next</button>
+                      
                     </div>
 
                     <div className="border-gray-200 border-2 rounded-xl px-10 py-5 max-w-md w-full">
