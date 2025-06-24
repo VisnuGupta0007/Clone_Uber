@@ -300,9 +300,11 @@ function Home() {
                                 />
                             </div>
 
-                            <button className="bg-black text-white text-lg font-bold ml-[400px] rounded-xl cursor-pointer w-full sm:w-[320px] mt-6 py-3.5 hover:bg-gray-900 lg:mr-20">
-                                Next
-                            </button>
+                            <div className="flex justify-end mt-6 px-4 sm:px-10 lg:px-20">
+                                <button className="bg-black text-white text-lg font-bold rounded-xl py-3.5 px-8 w-full max-w-xs hover:bg-gray-900 transition duration-200">
+                                    Next
+                                </button>
+                            </div>
                         </div>
 
 
